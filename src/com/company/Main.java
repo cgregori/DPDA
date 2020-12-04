@@ -27,7 +27,6 @@ public class Main {
         step++; // Increments each time display is called.
     }
 
-
     public static void main(String[] args) {
         // Setup.
         Stack<Character> stack = new Stack<>();
