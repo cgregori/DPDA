@@ -5,7 +5,7 @@ A 'quick' Deterministic Pushdown Automata that recognized the Context Free Langu
 
 This sphagetti code would go great with a slow-simmered bolognese, or you could even use it for pasta arrabiata!
 
-Here are some of the recipes I draw from:
+Here are some of the recipes I usually pull from:
 
 
 * [Pasta Bolognese](https://www.youtube.com/watch?v=sUZbfaYyL-s)
