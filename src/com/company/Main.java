@@ -28,7 +28,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        // Setup.
+        // Setup. 
         Stack<Character> stack = new Stack<>();
         String[] inputs = {"$", // n = 0
                             "ab$", // n = 1
